@@ -13,4 +13,7 @@ class App extends Component {
   }
 }
 
+// when you click, it and its brother become same rando color
+// all children become one shade lighter
+
 export default App
